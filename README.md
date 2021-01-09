@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-**I'm Huy**
+**I'm Huy** <br />
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 - 🔭 I’m student
 - 🌱 I’m currently learning Java, C++
