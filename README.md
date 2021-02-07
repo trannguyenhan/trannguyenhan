@@ -11,6 +11,5 @@
 - 🔗 More about me: <a href="https://trannguyenhan.github.io/AboutMe/" target="_blank">https://trannguyenhan.github.io/aboutme/</a>
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trannguyenhan&layout=compact&hide=html" alt="trannguyenhan" /></p> 
-<br />
-<br />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=trannguyenhan&show_icons=true" alt="trannguyenhan" /></p>
