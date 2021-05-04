@@ -9,7 +9,9 @@
 - 〽️ Blog: <a href="https://viblo.asia/u/trannguyenhan" target="_blank">https://viblo.asia/u/trannguyenhan</a>
 - 🎭 Gitlab : <a href="https://gitlab.com/trannguyenhan" target="_blank">https://gitlab.com/trannguyenhan</a>
 - 🔗 More about me: <a href="https://trannguyenhan.github.io/AboutMe/" target="_blank">https://trannguyenhan.github.io/about/</a>
+<!--
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trannguyenhan&layout=compact&hide=html" alt="trannguyenhan" /></p> 
-
+--><!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=trannguyenhan&show_icons=true" alt="trannguyenhan" /></p>
+-->
