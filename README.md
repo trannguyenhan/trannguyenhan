@@ -6,11 +6,12 @@
 - **Access my website** : [_**https://trannguyenhan.github.io/**_](https://trannguyenhan.github.io/)
 - 🔭 I’m student
 - 🌱 I’m currently learning Java, C++
-- 📫 Reach me: <a href="trannguyenhan01092000@gmail.com" target="_blank">trannguyenhan01092000@gmail.com</a>
-- 〽️ Blog: <a href="https://viblo.asia/u/trannguyenhan" target="_blank">https://viblo.asia/u/trannguyenhan</a>
-- 🎭 Gitlab : <a href="https://gitlab.com/trannguyenhan" target="_blank">https://gitlab.com/trannguyenhan</a>
-- 🔗 More about me: <a href="https://trannguyenhan.github.io/AboutMe/" target="_blank">https://trannguyenhan.github.io/about/</a>
-- 🔗 My bigdata blog: <a href="https://demanejar.github.io/" target="_blank">https://demanejar.github.io/</a>
+- 📫 Reach me: [trannguyenhan01092000@gmail.com](trannguyenhan01092000@gmail.com)
+- 〽️ Blog: [https://viblo.asia/u/trannguyenhan](https://viblo.asia/u/trannguyenhan)
+- 🎭 Gitlab : [https://gitlab.com/trannguyenhan](https://gitlab.com/trannguyenhan)
+- 🔗 More about me: [https://trannguyenhan.github.io/about/](https://trannguyenhan.github.io/about/)
+- 🔗 My bigdata blog: [https://demanejar.github.io/](https://demanejar.github.io/)
+- 🔗 Connect with me in Linkedin: [https://www.linkedin.com/in/trannguyenhan/](https://www.linkedin.com/in/trannguyenhan/)
 <!--
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trannguyenhan&layout=compact&hide=html" alt="trannguyenhan" /></p> 
