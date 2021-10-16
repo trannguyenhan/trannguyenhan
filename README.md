@@ -15,10 +15,10 @@
 --- 
 ### ✍️ Blog and Writing
 
-- 〽️ Blog: [https://viblo.asia/u/trannguyenhan](https://viblo.asia/u/trannguyenhan)
-- 🔗 My bigdata blog: [https://demanejar.github.io/](https://demanejar.github.io/)
+- Blog: [https://viblo.asia/u/trannguyenhan](https://viblo.asia/u/trannguyenhan)
+- My bigdata blog: [https://demanejar.github.io/](https://demanejar.github.io/)
 
 --- 
 ### 👉 Other
-- 🎭 Gitlab : [https://gitlab.com/trannguyenhan](https://gitlab.com/trannguyenhan)
-- 🔗 Connect with me in Linkedin: [https://www.linkedin.com/in/trannguyenhan/](https://www.linkedin.com/in/trannguyenhan)
+- Gitlab : [https://gitlab.com/trannguyenhan](https://gitlab.com/trannguyenhan)
+- Connect with me in Linkedin: [https://www.linkedin.com/in/trannguyenhan/](https://www.linkedin.com/in/trannguyenhan)
