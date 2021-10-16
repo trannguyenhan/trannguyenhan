@@ -1,8 +1,11 @@
 ### Hi there 👋
 [![Header](https://raw.githubusercontent.com/trannguyenhan/trannguyenhan/main/Untitled%20Design.png "Header")](https://some-url.dev/)
 
-**I'm Huy** <br />
+**Hello, I'm Huy, my nickname is trannguyenhan**
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
+---
 
 - **Access my website** : [_**https://trannguyenhan.github.io/**_](https://trannguyenhan.github.io/)
 - 🔭 I’m student
