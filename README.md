@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/trannguyenhan/trannguyenhan/main/images/background.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/trannguyenhan/trannguyenhan/main/images/background1.png "Header")](https://some-url.dev/)
 
 **Hello, I'm Huy, my nickname is trannguyenhan**
 
