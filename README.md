@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Header](https://raw.githubusercontent.com/trannguyenhan/trannguyenhan/main/images/background2.png "Header")](https://some-url.dev/)
 
-**Hello, I'm Huy, my nickname is trannguyenhan**
+**Hello, I'm Huy, my nickname is trannguyenhan**. Building small tools that replace heavy enterprise stacks. Focused on simplicity, ownership, and lower cloud costs.
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
